@@ -1,0 +1,3 @@
+Light Python program to hyphenate text files
+
+After settling into a work rhythm, data analysis can be pretty routine. Identify question. Mine data. Apply stats. Publish report. But within these steps (usually step 2), there's some data that needs restructuring. Since I work with large data sets, I found it necessary to automate any trivial task (e.g. - reformatting strings for applications requring specific inputs) and wrote this light program to help with this particular work rhythm.
